@@ -54,5 +54,5 @@ JDBC druid JSP+Servlet LayUI MD5 filter 反射
 ![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/5.png)
 
 ##### 提示
-admin   123456
-访问主页   http://localhost:8080/index
+* admin   123456
+* 访问主页   http://localhost:8080/index
