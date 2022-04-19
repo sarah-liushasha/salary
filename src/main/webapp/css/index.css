@@ -1,0 +1,11 @@
+body{
+    border: 0px;
+}
+.admin-nav-card iframe{
+    width: 100%;
+    border: 0;
+}
+.admin-nav-card li{
+    font-size: 15px;
+    line-height: 33px;
+}
