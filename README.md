@@ -1,4 +1,4 @@
-# salary-management  jdbc+servlet+filter+druid+layui+ajax+MD5
+# salary-management:   jdbc+servlet+filter+druid+layui+ajax+MD5
 salary management system: Based on departments and positions, distribute salary according to personal conditions.
 
 # 项目需求
@@ -32,18 +32,27 @@ JDBC druid JSP+Servlet LayUI MD5 filter 反射
 * 在设置下拉列表框时，使用 ajax 异步请求，实现下拉列表框二级联动。
 
 # 效果如下
-* **1.登录**  设置过滤器
+* **1.登录**  设置过滤器，当前登录用户不再登录，否则进入登录页面
 ![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/1.png)
-* **2.**
+* **2.科室管理**
 ![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/2(1).png)
+* 添加新的科室
 ![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/2(2).png)
+* 根据科室名模糊查询科室信息
 ![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/2(3).png)
-* **3.**
+* **3.员工管理**
+* 编辑修改员工基本信息：查询全部科室信息，采用下拉菜单选择科室；删除按钮删除辞职的员工
 ![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/3(1).png)
+* 查询按钮根据员工姓名模糊查询员工基本信息；新增按钮添加员工
 ![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/3(2).png)
-* **4.**
+* **4.工资管理** 新增按钮发工资 
+* 发放工资根据科室查找员工
 ![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/4(1).png)
+* 根据月份查询或者员工名字模糊查询发放工资信息
 ![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/4(2).png)
-* **5.**
+* **5.系统用户管理** 添加、查询、修改系统用户信息
 ![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/5.png)
 
+##### 提示
+admin   123456
+访问主页   http://localhost:8080/index
