@@ -32,12 +32,18 @@ JDBC druid JSP+Servlet LayUI MD5 filter 反射
 * 在设置下拉列表框时，使用 ajax 异步请求，实现下拉列表框二级联动。
 
 # 效果如下
+* **1.登录**  设置过滤器
 ![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/1.png)
-
-
-
-
-
-
-
+* **2.**
+![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/2(1).png)
+![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/2(2).png)
+![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/2(3).png)
+* **3.**
+![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/3(1).png)
+![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/3(2).png)
+* **4.**
+![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/4(1).png)
+![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/4(2).png)
+* **5.**
+![Image text](https://raw.githubusercontent.com/sarah-liushasha/salary/master/image-source/5.png)
 
